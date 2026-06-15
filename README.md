@@ -11,7 +11,7 @@
 ### 🌟 Project Vision
 **SBI Smart Mitra** is an advanced fintech prototype built to bridge the digital banking divide. It serves as an empathetic, multi-lingual AI companion designed to onboard non-tech-savvy users onto SBI's digital ecosystem (YONO, UPI, Internet Banking, and online schemes). Utilizing interactive micro-guided systems, secure conversational interfaces, and gamified progress monitors, it makes next-gen banking intuitive, secure, and accessible to everyone.
 
-[✨ Live Demo](https://sbi-smart-mitra.vercel.app) · [📂 Backend API](https://github.com/ishakushwaha2028/SBI-Smart-Mitra) · [🐛 Report Issue](https://github.com/ishakushwaha2028/SBI-Smart-Mitra/issues)
+[✨ Live Demo](https://sbi-smart-mitra-amber.vercel.app/voice-banking) · [🐛 Report Issue](https://github.com/ishakushwaha2028/SBI-Smart-Mitra/issues)
 
 
 ---
