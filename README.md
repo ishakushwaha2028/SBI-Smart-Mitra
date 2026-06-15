@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Hackathon-SBI%20Innovation%20Challenge-1F5FAA?style=for-the-badge&logo=target" alt="Hackathon" />
   <img src="https://img.shields.io/badge/Tech_Stack-MERN%20+%20Gemini-003366?style=for-the-badge" alt="Tech Stack" />
   <img src="https://img.shields.io/badge/UI%2FUX-Glassmorphism-FF8C00?style=for-the-badge" alt="Design" />
-  <img src="https://img.shields.io/github/stars/ishakushwaha2028/SBI-Smart-Mitra?style=for-the-badge&color=22c55e" alt="Stars" />
 </p>
 
 ---
@@ -20,12 +19,12 @@
 
 To respect and elevate the traditional brand essence of the **State Bank of India**, our interface heavily features a modern, clean glassmorphic design language wrapped around the official banking palette:
 
-| Component Type | Color Hex | Preview |
+| Component Type | Color Hex 
 | :--- | :--- | :--- |
-| **Primary Core Blue** | `#1F5FAA` | `████████████████` |
-| **Deep Trust Blue** | `#003366` | `████████████████` |
-| **Accent Active Orange** | `#FF8C00` | `████████████████` |
-| **Base Surface** | `#FFFFFF` | `████████████████ (Glassmorphic 80% Opacity)` |
+| **Primary Core Blue** | `#1F5FAA` 
+| **Deep Trust Blue** | `#003366` 
+| **Accent Active Orange** | `#FF8C00` 
+| **Base Surface** | `#FFFFFF` 
 
 ---
 
@@ -43,13 +42,8 @@ Context-aware multi-turn conversational interface powered by the <b>Gemini AI En
 Integrated Speech-to-Text and Text-to-Speech models optimizing seamless accessibility pipelines for English and Hindi (regional phonetics included).
 </details>
 
-<details>
-<summary><b>📊 3. Gamified Onboarding Dashboard</b></summary>
-<br>
-Features a dynamic mathematical calculation engine scoring digital literacy metrics based on completed structural guides (UPI Setup, YONO logs).
-</details>
 
 <details>
-<summary><b>🛡️ 4. Intelligent Fraud Mitigation Hub</b></summary>
+<summary><b>🛡️ 3. Intelligent Fraud Mitigation Hub</b></summary>
 <br>
 Real-time reactive security engine providing targeted scam alerts, active deep-dive safe-banking interactive modules, and simulated anti
