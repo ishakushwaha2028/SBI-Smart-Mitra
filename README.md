@@ -13,18 +13,6 @@
 
 [✨ Live Demo](https://sbi-smart-mitra.vercel.app) · [📂 Backend API](https://github.com/ishakushwaha2028/SBI-Smart-Mitra) · [🐛 Report Issue](https://github.com/ishakushwaha2028/SBI-Smart-Mitra/issues)
 
----
-
-## 🎨 Design System & Color Palette
-
-To respect and elevate the traditional brand essence of the **State Bank of India**, our interface heavily features a modern, clean glassmorphic design language wrapped around the official banking palette:
-
-| Component Type | Color Hex 
-| :--- | :--- | :--- |
-| **Primary Core Blue** | `#1F5FAA` 
-| **Deep Trust Blue** | `#003366` 
-| **Accent Active Orange** | `#FF8C00` 
-| **Base Surface** | `#FFFFFF` 
 
 ---
 
