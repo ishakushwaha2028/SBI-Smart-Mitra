@@ -34,4 +34,4 @@ Integrated Speech-to-Text and Text-to-Speech models optimizing seamless accessib
 <details>
 <summary><b>🛡️ 3. Intelligent Fraud Mitigation Hub</b></summary>
 <br>
-Real-time reactive security engine providing targeted scam alerts, active deep-dive safe-banking interactive modules, and simulated anti
+Real-time reactive security engine providing targeted scam alerts, active deep-dive safe-banking interactive modules.
